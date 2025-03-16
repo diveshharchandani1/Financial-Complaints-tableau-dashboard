@@ -1,9 +1,10 @@
 # Financial Complaints Dashboard
 
-![FCO](./FCOverview.png)  
-
 ## Overview
 The **Financial Complaints Dashboard** is an interactive Tableau visualization designed to provide insights into consumer financial complaints, their resolution status, and distribution across the United States. This dashboard helps businesses and regulatory bodies analyze key trends and improve customer satisfaction.
+
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/divesh.harchandani/viz/FinancialComplaints_16549695599770/FCOverview)
+![FCO](./FCOverview.png)  
 
 ## Key Features
 
@@ -55,8 +56,6 @@ The **Financial Complaints Dashboard** is an interactive Tableau visualization d
 - **Use filters and interactive elements** to drill down into specific categories, states, or products.
 - **Identify trends and patterns** to help improve customer service and resolution strategies.
 
-## Explore the Dashboard
-[View the Tableau Dashboard](https://public.tableau.com/app/profile/divesh.harchandani/viz/FinancialComplaints_16549695599770/FCOverview)
 
 ---
 
